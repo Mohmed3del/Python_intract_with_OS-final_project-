@@ -9,14 +9,14 @@ This is my final project for the "Using Python to Interact with the Operating Sy
 ## How to Run the Script
 
 1. Make the script executable:
-```
-chmod +x ticky_check.py
-```
+    ```
+    chmod +x ticky_check.py
+    ```
 
 2. Execute the script:
-```
-./ticky_check.py
-```
+    ```
+    ./ticky_check.py
+    ```
 
 
 ## Project Overview
